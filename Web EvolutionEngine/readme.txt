@@ -9,16 +9,7 @@ An effortless way to find the best schedule that's meet your school workers and 
 
 #####   SYSTEM REQUIREMENTS  #####
 
-# Runs best on Windows 7 (and higher) or macOS (10.11.6) with Linux (centOS 6.7) or higher
-
-# Requires Java 1.8 (https://docs.oracle.com/javase/8/docs/technotes/guides/install/install_overview.html)
-
-
-You can access your application from: http://localhost:8080/sample
-
-
-
-If it doesn't open properly, check the log files (e.g. tomcat/logs/catalina.out) for problems with deployment.
+# make sure you already install Apache Tomcat ver 8.5.x
 
 
 
